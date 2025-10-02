@@ -1,0 +1,5 @@
+def welcome_new_customer(customer_name):
+    print(f"Welcome to Rubrik, {customer_name}! We're excited to have you onboard.")
+
+# Example usage:
+welcome_new_customer("RUBRIK CSM ")
